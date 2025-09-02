@@ -10,7 +10,7 @@ This project is an Express.js REST API that serves user data from. It supports C
 | Route | Method | Description |
 | :-- | :-- | :-- |
 | `/api/users` | GET | Returns all user objects in JSON. |
-| `/api/users/:count` | GET | Returns `count` random user objects as JSON. |
+| `/api/users/count` | GET | Returns `count` random user objects as JSON. |
 
 ### Examples
 
