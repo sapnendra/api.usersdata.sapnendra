@@ -1,5 +1,5 @@
 # Random Users Data - REST API
-This project is an Express.js REST API that serves user data from. It supports CORS and provides endpoints to fetch all users or a specified number of random users.
+This project is an Express.js REST API that serves user data objects. It supports CORS and provides endpoints to fetch all users or a specified number of random users.
 
 ***
 
